@@ -8,13 +8,6 @@
 - Starts - December 27, 2023 Noon UTC
 - Ends - January 10, 2024 Noon UTC
 
-## Stats
-
-- nSLOC: 609
-- Complexity Score: 698
-- Dollars per Complexity: $28.65
-- Dollars per nSLOC: $32.84
-
 [//]: # (contest-details-open)
 
 ## About the Project
